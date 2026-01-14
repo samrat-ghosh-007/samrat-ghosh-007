@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/samrat-ghosh-53b65636a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:samrat9ghosh2018@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
 </p>
 
 ---
