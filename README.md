@@ -32,8 +32,8 @@
 <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
+<img src="https://skillicons.dev/icons?i=redis" height="40"/>
 </p>
-
 ### 🌐 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
