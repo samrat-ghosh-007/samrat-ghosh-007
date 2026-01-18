@@ -50,6 +50,7 @@
 <img src="https://skillicons.dev/icons?i=git" height="40"/>
 <img src="https://skillicons.dev/icons?i=postman" height="40"/>
 <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
 </p>
 
 ---
