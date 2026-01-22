@@ -6,6 +6,13 @@
   </a>
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjBqb2dwNWhyaWhoZzE5eXBocXI2ejEwaDJnbDNvbmtiMWVldmY1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/15UbO1LY4O2Fxw8gnI/giphy.gif"
+       alt="Coding GIF"
+       width="285" />
+</p>
+
+
 ---
 
 ## 🚀 About Me
