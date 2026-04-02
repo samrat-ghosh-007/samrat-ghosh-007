@@ -31,7 +31,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="40"/>
   <img src="https://skillicons.dev/icons?i=solidity" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-<img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=django" height="40"/>
 </p>
 
 
